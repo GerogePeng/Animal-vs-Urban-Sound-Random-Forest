@@ -1,0 +1,8 @@
+k_fold_result: [ 0.83984375 0.8359375  0.87109375 0.87109375 0.83984375 0.859375  ] 
+
+mean of k_fold_result: 0.8529
+
+Accuracy: 0.8672
+Precision: 0.8725
+Recall: 0.8672
+F1-Score: 0.8653
