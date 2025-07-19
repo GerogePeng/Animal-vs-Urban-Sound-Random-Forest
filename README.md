@@ -9,7 +9,7 @@
 - `Animals` 類別（如貓叫、狗吠）
 - `Urban` 類別（如汽車聲、喇叭聲）
 
-這些檔案僅供範例使用，完整資料請參考 [ESC-50 官方下載](https://github.com/karoldvl/ESC-50)。
+這些檔案僅供範例使用，完整資料請參考 [ESC-50](https://github.com/karoldvl/ESC-50)。
 ---
 
 ## 📌 專案動機
